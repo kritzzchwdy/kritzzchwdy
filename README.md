@@ -66,18 +66,6 @@ I'm **Kritika Chaudhary**, a passionate **Frontend Developer** and aspiring **Da
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=kritzzchwdy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy&layout=compact&theme=midnight-purple"/>
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
