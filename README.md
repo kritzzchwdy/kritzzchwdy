@@ -5,48 +5,23 @@
 Passionate about building responsive web applications and exploring data-driven solutions. I enjoy creating projects that solve real-world problems while continuously learning modern technologies.
 
 ---
-
 ## 💜 About Me
 
-```python
-class Kritika:
+<img align="right" width="320" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
-    def __init__(self):
+### Hello! 👋
 
-        self.role = [
-            "Frontend Developer",
-            "Data Analyst"
-        ]
+I'm **Kritika Chaudhary**, a passionate **Frontend Developer** with a growing interest in **Data Analytics**.
 
-        self.languages = [
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "Python",
-            "SQL"
-        ]
+💜 I enjoy creating modern, responsive, and user-focused web applications.
 
-        self.tools = [
-            "Git",
-            "GitHub",
-            "Excel"
-        ]
+📈 I love working with data, exploring insights, and continuously improving my technical skills.
 
-        self.learning = [
-            "Frontend Development",
-            "Data Analytics",
-            "Python",
-            "SQL"
-        ]
+🌱 Every project is an opportunity to learn, experiment, and build something meaningful.
 
-        self.goal = (
-            "Build modern applications and solve "
-            "real-world problems using technology."
-        )
-```
+✨ My goal is to combine creativity with technology to deliver impactful digital solutions.
 
----
-
+<br clear="right"/>
 ## 🌸 What I Do
 
 * ✨ Build responsive websites
