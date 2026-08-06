@@ -8,15 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Data+Analyst;Python+Learner;Building+Beautiful+Projects"/>
 
-</div>
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-
-</div>
-
 ---
 
 ## 🌷 About Me
