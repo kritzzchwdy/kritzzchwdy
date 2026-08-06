@@ -1,147 +1,141 @@
+<div align="center">
+
 # 💜 Hi, I'm Kritika Chaudhary
 
 ### Frontend Developer • Data Analyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=A855F7&width=500&lines=Frontend+Developer;Data+Analyst;Python+Learner;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Data+Analyst;Python+Learner;Always+Building+Something+New"/>
+
+<br>
+
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="280">
+
+</div>
 
 ---
 
-## 💫 About Me
+## 🌷 About Me
 
 ```python
-name = "Kritika Chaudhary"
+class Kritika:
 
-roles = [
-    "Frontend Developer",
-    "Data Analyst"
-]
+    role = [
+        "Frontend Developer",
+        "Data Analyst"
+    ]
 
-languages = [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Python",
-    "SQL"
-]
+    skills = [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "SQL"
+    ]
 
-tools = [
-    "Git",
-    "GitHub",
-    "Excel"
-]
+    currently_learning = [
+        "Frontend Development",
+        "Data Analytics",
+        "Python",
+        "SQL"
+    ]
 
-goal = "Build projects that solve real-world problems."
+    motto = "Learn • Build • Improve • Repeat"
 ```
 
-✨ Building responsive websites
+💜 Passionate about building beautiful and responsive websites.
 
-📊 Exploring data and discovering insights
+🌱 Learning modern web development and data analytics.
 
-🚀 Creating projects consistently
+📊 Turning data into meaningful insights.
 
-🌱 Learning something new every day
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+🚀 Building projects that solve real-world problems.
 
 ---
 
-## 🌸 Currently Learning
+## ✨ Tech Stack
 
-- Frontend Development
-- JavaScript ES6+
-- Python
-- SQL
-- Data Analytics
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode"/>
 
-## 🚀 Featured Project
-
-### 🌍 Delhi NCR Pollution Dashboard
-
-Features:
-
-- Interactive charts
-- Pollution analysis
-- Air quality insights
-- Responsive design
-- Data visualization
+</div>
 
 ---
 
-## 📈 GitHub Statistics
+## 🌸 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=kritzzchwdy&theme=tokyonight&show_icons=true)
-
----
-
-## 🏆 Contribution Streak
-
-![](https://streak-stats.demolab.com?user=kritzzchwdy&theme=tokyonight)
+- 🌐 Frontend development
+- 📊 Data analytics
+- 🐍 Python
+- 🗄️ SQL
+- 🚀 Open-source projects
 
 ---
 
-## 💻 Most Used Languages
+## 🌍 Featured Project
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy&layout=compact&theme=tokyonight)
+### Delhi NCR Pollution Dashboard
 
----
+✨ Interactive charts
 
-## 🌟 Skills
+✨ Air-quality analysis
 
-✔ Responsive Web Design
+✨ Location-based insights
 
-✔ Frontend Development
-
-✔ Data Visualization
-
-✔ Problem Solving
-
-✔ SQL
-
-✔ Version Control
+✨ Responsive design
 
 ---
 
-## 📬 Connect With Me
+## 📊 GitHub Statistics
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritzzchwdy&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kritzzchwdy&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:kritikachaudhary2606@gmail.com">
 📧 Email
+</a>
 
-kritikachaudhary2606@gmail.com
+•
 
+<a href="https://www.linkedin.com/in/kritika-chaudhary-619664327">
 💼 LinkedIn
+</a>
 
-https://www.linkedin.com/in/kritika-chaudhary-619664327
+•
 
+<a href="https://github.com/kritzzchwdy">
 🐙 GitHub
+</a>
 
-https://github.com/kritzzchwdy
-
----
-
-## 💜 Open to Collaborate
-
-- Frontend Development
-- Data Analytics
-- Open-source projects
-- Innovative ideas
+</p>
 
 ---
 
-## 💭 Quote
+<div align="center">
 
-> Consistency creates confidence.
-
----
+### 💜 "Consistency creates confidence."
 
 ⭐ Thank you for visiting my profile.
+
+</div>
