@@ -4,11 +4,15 @@
 
 ### Frontend Developer • Data Analyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=FF9EC4&center=true&vCenter=true&width=500&lines=Frontend+Developer;Data+Analyst;Python+Learner;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=E8A2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Data+Analyst;Python+Learner;Building+Beautiful+Projects"/>
 
-<br>
+</div>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 </div>
 
@@ -16,42 +20,17 @@
 
 ## 🌷 About Me
 
-```python
-name = "Kritika Chaudhary"
+### Hello! 👋
 
-role = [
-    "Frontend Developer",
-    "Data Analyst"
-]
+I'm **Kritika Chaudhary**, a passionate **Frontend Developer** and aspiring **Data Analyst**.
 
-skills = [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Python",
-    "SQL"
-]
+💜 I enjoy designing elegant and responsive web applications.
 
-motto = "Learn • Build • Improve • Repeat 💜"
-```
+📊 I love discovering patterns and insights from data.
 
-💜 Passionate about building beautiful and responsive websites.
+🌱 Every project is an opportunity to learn, improve, and grow.
 
-🌱 Exploring modern web technologies and data analytics.
-
-📊 Transforming data into useful insights.
-
-🚀 Building projects that solve real-world problems.
-
----
-
-## ✨ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode"/>
-
-</div>
+🚀 My goal is to combine creativity and technology to build impactful solutions.
 
 ---
 
@@ -65,7 +44,17 @@ motto = "Learn • Build • Improve • Repeat 💜"
 
 🗄️ SQL
 
-🚀 Open-source Projects
+🚀 Open-source projects
+
+---
+
+## ✨ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode"/>
+
+</div>
 
 ---
 
@@ -79,17 +68,19 @@ motto = "Learn • Build • Improve • Repeat 💜"
 
 ✨ Location-based insights
 
-✨ Responsive design
+✨ Data visualization
+
+✨ Responsive interface
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kritzzchwdy&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritzzchwdy&show_icons=true&theme=midnight-purple"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy&layout=compact&theme=midnight-purple"/>
 
 </div>
 
@@ -99,7 +90,7 @@ motto = "Learn • Build • Improve • Repeat 💜"
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kritzzchwdy&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=kritzzchwdy&theme=midnight-purple"/>
 
 </div>
 
@@ -131,40 +122,70 @@ motto = "Learn • Build • Improve • Repeat 💜"
 
 ---
 
-## 🤝 Let's Connect
+## 💭 Developer Mindset
+
+✨ Learn
+
+✨ Build
+
+✨ Improve
+
+✨ Repeat
+
+---
+
+## 🌸 Fun Fact
+
+> Every project starts with curiosity and grows through consistency. 💜
+
+---
+
+## 🤝 Open to Collaborate
+
+- Frontend development
+- Data analytics
+- Open-source projects
+- Creative ideas
+- Learning communities
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
 <a href="mailto:kritikachaudhary2606@gmail.com">
+
 📧 Email
+
 </a>
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;💜&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/kritika-chaudhary-619664327">
+
 💼 LinkedIn
+
 </a>
 
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;💜&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/kritzzchwdy">
+
 🐙 GitHub
+
 </a>
 
 </div>
 
 ---
 
-## 💭 Quote
-
-> *"Consistency creates confidence. Every line of code is a step toward something bigger."* 💜
-
----
-
 <div align="center">
+
+### 💜 Consistency creates confidence.
 
 ⭐ Thanks for visiting my profile.
 
-💜 Learn • Build • Improve • Repeat
+🌷 Learn • Build • Improve • Repeat 🌷
 
 </div>
