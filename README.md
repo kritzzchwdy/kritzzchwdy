@@ -1,13 +1,14 @@
 <div align="center">
 
+<img src="banner.png" width="100%">
+
 # 💜 Hi, I'm Kritika Chaudhary
 
 ### Frontend Developer • Data Analyst
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=E8A2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Data+Analyst;Python+Learner;Building+Beautiful+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Data+Analyst;Python+Learner;Building+Beautiful+Projects"/>
 
 </div>
-
 ---
 
 <div align="center">
