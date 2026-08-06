@@ -70,7 +70,19 @@ I'm **Kritika Chaudhary**, a passionate **Frontend Developer** and aspiring **Da
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritzzchwdy&theme=midnight-purple"/>
+<img src="https://streak-stats.demolab.com?user=kritzzchwdy&theme=midnight-purple" />
+
+</div>
+
+---
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritzzchwdy&bg_color=0d1117&color=c77dff&line=ff9cf0&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
