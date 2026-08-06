@@ -1,76 +1,67 @@
 # 💜 Hi, I'm Kritika Chaudhary
 
-### Frontend Developer | Data Analyst
+### Frontend Developer • Data Analyst
 
-Passionate about building responsive web applications and exploring data-driven solutions. I enjoy creating projects that solve real-world problems while continuously learning modern technologies.
-
----
-## 💜 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
-
-### Hello! 👋
-
-I'm **Kritika Chaudhary**, a passionate **Frontend Developer** with a growing interest in **Data Analytics**.
-
-💜 I enjoy creating modern, responsive, and user-focused web applications.
-
-📈 I love working with data, exploring insights, and continuously improving my technical skills.
-
-🌱 Every project is an opportunity to learn, experiment, and build something meaningful.
-
-✨ My goal is to combine creativity with technology to deliver impactful digital solutions.
-
-<br clear="right"/>
-## 🌸 What I Do
-
-* ✨ Build responsive websites
-* 📊 Explore data and derive meaningful insights
-* 💻 Practice JavaScript and Python
-* 📚 Learn new technologies consistently
-* 🚀 Create projects that solve real-world problems
-* 🌱 Improve every single day
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=A855F7&width=500&lines=Frontend+Developer;Data+Analyst;Python+Learner;Always+Learning+Something+New" />
 
 ---
 
-## 💼 Career Objective
+## 💫 About Me
 
-> Passionate about building intuitive web interfaces and exploring data-driven solutions. My objective is to grow as a Frontend Developer and Data Analyst by creating impactful projects, continuously learning modern technologies, and contributing to innovative software solutions.
+```python
+name = "Kritika Chaudhary"
+
+roles = [
+    "Frontend Developer",
+    "Data Analyst"
+]
+
+languages = [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "SQL"
+]
+
+tools = [
+    "Git",
+    "GitHub",
+    "Excel"
+]
+
+goal = "Build projects that solve real-world problems."
+```
+
+✨ Building responsive websites
+
+📊 Exploring data and discovering insights
+
+🚀 Creating projects consistently
+
+🌱 Learning something new every day
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=mysql\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql"/>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 ---
 
-## 🌸 Current Focus
+## 🌸 Currently Learning
 
-* 🌐 Frontend Development
-* 📊 Data Analytics
-* 🐍 Python
-* 🗄 SQL
-* 🚀 Building better projects
-* 🤝 Open-source learning
+- Frontend Development
+- JavaScript ES6+
+- Python
+- SQL
+- Data Analytics
 
 ---
 
@@ -78,110 +69,79 @@ I'm **Kritika Chaudhary**, a passionate **Frontend Developer** with a growing in
 
 ### 🌍 Delhi NCR Pollution Dashboard
 
-A modern data-driven dashboard built to visualize pollution trends across Delhi NCR.
+Features:
 
-#### Features
-
-* 📊 Interactive charts
-* 🌫 Air quality insights
-* 📍 Location-based pollution analysis
-* 📈 Data visualization
-* 💻 Responsive design
+- Interactive charts
+- Pollution analysis
+- Air quality insights
+- Responsive design
+- Data visualization
 
 ---
 
-## 🌱 Currently Learning
+## 📈 GitHub Statistics
 
-* 💜 Frontend Development
-* 💜 JavaScript ES6+
-* 💜 Python
-* 💜 SQL
-* 💜 Data Analytics
-* 💜 Excel
-
----
-
-## 💡 Developer Mindset
-
-✨ Learn
-
-✨ Build
-
-✨ Improve
-
-✨ Repeat
-
----
-
-## 🏅 Skills and Expertise
-
-* ✔ Responsive Web Design
-* ✔ Frontend Development
-* ✔ Data Visualization
-* ✔ Problem Solving
-* ✔ Database Fundamentals
-* ✔ Version Control
-* ✔ Team Collaboration
-* ✔ Continuous Learning
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritzzchwdy\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kritzzchwdy&theme=tokyonight&show_icons=true)
 
 ---
 
 ## 🏆 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kritzzchwdy)
+![](https://streak-stats.demolab.com?user=kritzzchwdy&theme=tokyonight)
 
 ---
 
-## 🌟 Fun Fact
+## 💻 Most Used Languages
 
-> "Every project starts with curiosity and grows with consistency."
-
----
-
-## 💜 Open to Collaborate
-
-* ✨ Frontend Development
-* 📊 Data Analytics
-* 💻 Open-source projects
-* 🌱 Learning communities
-* 🚀 Innovative ideas
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy&layout=compact&theme=tokyonight)
 
 ---
 
-## 📬 Contact Me
+## 🌟 Skills
 
-📧 **Email**
+✔ Responsive Web Design
 
-[kritikachaudhary2606@gmail.com](mailto:kritikachaudhary2606@gmail.com)
+✔ Frontend Development
 
-💼 **LinkedIn**
+✔ Data Visualization
+
+✔ Problem Solving
+
+✔ SQL
+
+✔ Version Control
+
+---
+
+## 📬 Connect With Me
+
+📧 Email
+
+kritikachaudhary2606@gmail.com
+
+💼 LinkedIn
 
 https://www.linkedin.com/in/kritika-chaudhary-619664327
 
-🐙 **GitHub**
+🐙 GitHub
 
 https://github.com/kritzzchwdy
 
 ---
 
-## 💭 Quote
+## 💜 Open to Collaborate
 
-### *"Consistency creates confidence. Every line of code is a step toward something bigger."* 💜
+- Frontend Development
+- Data Analytics
+- Open-source projects
+- Innovative ideas
 
 ---
 
-## 💜 Support My Journey
+## 💭 Quote
 
-⭐ Star my repositories if you find them helpful.
+> Consistency creates confidence.
 
-🤝 I'm always happy to collaborate on exciting ideas and meaningful projects.
+---
 
-💡 Let's learn, build, and grow together.
+⭐ Thank you for visiting my profile.
