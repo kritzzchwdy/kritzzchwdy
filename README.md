@@ -70,9 +70,9 @@ I'm **Kritika Chaudhary**, a passionate **Frontend Developer** and aspiring **Da
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritzzchwdy&show_icons=true&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kritzzchwdy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy&layout=compact&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritzzchwdy&layout=compact&theme=midnight-purple"/>
 
 </div>
 
@@ -82,7 +82,7 @@ I'm **Kritika Chaudhary**, a passionate **Frontend Developer** and aspiring **Da
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kritzzchwdy&theme=midnight-purple"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritzzchwdy&theme=midnight-purple"/>
 
 </div>
 
